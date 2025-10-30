@@ -1,1 +1,22 @@
-# rentacarsayahttps://unzip-download.iscanner.com/zip-unzip/eeab454a-2bf8-436b-8e60-32979f91a91b/extracted/README.md?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAXB5QSRXDYFY3BR6W%2F20251030%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20251030T201854Z&X-Amz-Expires=600&X-Amz-SignedHeaders=host&x-id=GetObject&X-Amz-Signature=8943ddcb782540f2a318ef3635d2f13b7e8879b5eb4dd3742855e5a8d87d37d8
+Rani Rentacars - Sitio Web (V2) - Vite + React + Tailwind
+
+Instrucciones rápidas:
+1) Instalar dependencias:
+   npm install
+
+2) Desarrollo local:
+   npm run dev
+   (Visitar http://localhost:5173)
+
+3) Build para producción:
+   npm run build
+
+4) Deploy en Vercel (Upload ZIP):
+   - En Vercel: New Project -> Import -> Upload
+   - Sube este ZIP (rani-rentacars-v2.zip)
+   - Framework: Vite, Build command: npm run build, Output dir: dist
+
+Nota: favicon (/public/favicon.png) y logo (/public/logo-rani.png) incluidos.
+Map centered: Av. Independencia 1497, Limache (La Pica del Rusio)
+Contactos: WhatsApp +56 9 4419 0712, +56 9 3564 5787
+Redes: @rentacarsaya
